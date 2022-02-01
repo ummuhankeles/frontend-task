@@ -20,6 +20,7 @@ html {
     height: 866px;
     left: 0px;
     top: 0px;
+    background: #FFFFFF;
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -1132,6 +1133,7 @@ html {
         height: 1240px;
         left: 0px;
         top: 0px;
+        background: #FFFFFF;
         flex: none;
         order: 0;
         flex-grow: 0;
@@ -2166,6 +2168,7 @@ html {
         height: 1240px;
         left: 0px;
         top: 0px;
+        background: #FFFFFF;
         flex: none;
         order: 0;
         flex-grow: 0;
