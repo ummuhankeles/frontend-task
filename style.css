@@ -30,7 +30,7 @@ html {
 
 .background {
     position: absolute;
-    background: url(/assets/background.png);
+    background-image: url("./assets/background.png");
     background-size: 100% 866px;
     width: 100%;
     height: 866px;
@@ -1132,7 +1132,6 @@ html {
         height: 1240px;
         left: 0px;
         top: 0px;
-        background: #FFFFFF;
         flex: none;
         order: 0;
         flex-grow: 0;
@@ -1141,7 +1140,7 @@ html {
 
     .background {
         position: absolute;
-        background: url(/assets/background.png);
+        background-image: url("./assets/background.png");
         background-size: 100% 1100px;
         width: 768px;
         height: 1100px;
@@ -2167,7 +2166,6 @@ html {
         height: 1240px;
         left: 0px;
         top: 0px;
-        background: #FFFFFF;
         flex: none;
         order: 0;
         flex-grow: 0;
@@ -2178,7 +2176,7 @@ html {
 
     .background {
         position: absolute;
-        background: url(/assets/background.png);
+        background-image: url("./assets/background.png");
         background-size: 100% 1100px;
         width: 375px;
         height: 1100px;
